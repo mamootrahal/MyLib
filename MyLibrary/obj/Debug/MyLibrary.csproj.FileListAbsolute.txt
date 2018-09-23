@@ -1,0 +1,12 @@
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb

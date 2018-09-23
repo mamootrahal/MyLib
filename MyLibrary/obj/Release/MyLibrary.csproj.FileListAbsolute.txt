@@ -1,0 +1,5 @@
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\bin\Release\MyLibrary.dll
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Release\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Release\MyLibrary.dll
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\MyLibrary\MyLibrary\obj\Release\MyLibrary.pdb
